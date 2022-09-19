@@ -1,0 +1,21 @@
+{
+   “transferIdentifier”: “111bedee-de7f-4012-b647-fca0ffda23aa”,
+   “transferType”: “TBD ”,
+   “transferAuthorizationType”: “execute”,
+   “partnerReferenceData”: “Optional Partner Defined String”,
+   “initiator”: “1117FD32-600A-4F4F-82F0-4940CC811111”,
+      “transferRoute”: {
+      “transactionAmount”: 20,
+      }
+      “sourceTransferEndpoint”: {
+      “transferEndpointType”: 
+      “programFundingSource”,
+      “identifier”: “1117FD32-600A-4F4F-82F0-4940CC811111”,
+      “currency”: “USD”
+      },
+      “targetTransferEndpoint”: {
+      “transferEndpointType”: “account”,
+      “identifier”: “111d697b-d01a-46d9-94f1-e7dd02111111”,
+      “currency”: “USD”
+      }
+   }
